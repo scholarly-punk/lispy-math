@@ -1,0 +1,1 @@
+I'm writing about exploring the world of mathematics with Scheme, from the groundup.
